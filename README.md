@@ -14,6 +14,7 @@
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 
+### Contact:
 <div id="badges">
   <a href="https://www.linkedin.com/in/reidashwill/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
