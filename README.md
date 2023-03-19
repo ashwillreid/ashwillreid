@@ -1,6 +1,6 @@
 # Reid Ashwill
 
-### F0ullstack developer living in the PNW.
+## Fullstack developer living in the PNW.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/reidashwill/">
